@@ -1,0 +1,16 @@
+{
+    "name": "picture-metadata",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "aws": "^0.0.3-2",
+        "aws-sdk": "^2.1349.0",
+        "awssdk": "^1.0.1",
+        "express": "^4.18.2"
+    }
+}
